@@ -17,16 +17,15 @@ Check if the password meets the following criteria:
 -->Contains at least two special character (!, @, #, $, %, ^, &, *, _, +, -, =, [, ], {, }, |, :, <, >, ?, /): 
 
 Q2.Secure Password Generator
-
 Generate password
 Include a mix of:
 -->Uppercase letters (A-Z)
 -->Lowercase letters (a-z)
 -->Numbers (0-9)
 -->Special characters (!, @, #, $, %, ^, &, *, _, +, -, =, [, ], {, }, |, :, <, >, ?, /)
-> User Input:
+-> User Input:
 -->Prompt the user for the desired password length
 -->Validate input to ensure it's within the allowed range (12-32 characters)
-> Output Format:
+-> Output Format:
 -->Display the generated password clearly
 -->Include the password length
