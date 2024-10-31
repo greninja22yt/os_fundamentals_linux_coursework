@@ -26,10 +26,12 @@ Include a mix of:
 
 
 -> User Input:
+
 -->Prompt the user for the desired password length
 -->Validate input to ensure it's within the allowed range (12-32 characters)
 
 
 -> Output Format:
+
 -->Display the generated password clearly
 -->Include the password length
